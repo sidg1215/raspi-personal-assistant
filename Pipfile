@@ -7,6 +7,9 @@ name = "pypi"
 adafruit-circuitpython-ssd1306 = "*"
 spotipy = "*"
 "rpi.gpio" = "*"
+pyaudio = "*"
+adafruit-circuitpython-tca9548a = "*"
+pywhispercpp = {extras = ["examples"], version = "*"}
 
 [dev-packages]
 
